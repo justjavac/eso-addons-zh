@@ -1,6 +1,6 @@
 # eso-addons
 
-中文汉化包 https://vstab.com/local/
+插件的语言提取自微攻略的中文汉化包 https://vstab.com/local/
 
 - [AdvancedFilters](https://www.esoui.com/downloads/info2215-AdvancedFilters-Updated.html): 物品分类
 - [AwesomeGuildStore](https://www.esoui.com/downloads/info695-AwesomeGuildStore.html): 改善公会商店界面
