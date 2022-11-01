@@ -1,0 +1,32 @@
+## Title: EsoZH
+## Author: Bevisbear
+## Description: Chinese and English double language for ESO, base vstab'EsoZH and Raven's machine translate and RuESO addon iteration.
+## Version: v0.19.0
+## APIVersion: 101036
+## SavedVariables: EsoZH_Variables EsoZh_ExportData
+## DependsOn: LibAddonMenu-2.0
+
+; LICENSE: All rights reserved
+
+
+; DISCLAIMER:
+;
+; This Add-on is not created by, affiliated with or sponsored by ZeniMax
+; Media Inc. or its affiliates. The Elder Scrolls? and related logos are
+; registered trademarks or trademarks of ZeniMax Media Inc. in the United
+; States and/or other countries. All rights reserved.
+;
+; You can read the full terms at:
+; https://account.elderscrollsonline.com/add-on-terms
+
+data/npcName.lua
+data/links.lua
+data/affixes.lua
+data/enchatPrefixes.lua
+data/prefixes.lua
+modules/locations.lua
+modules/items.lua
+modules/npcNames.lua
+modules/skills.lua
+modules/champion.lua
+EsoZH.lua

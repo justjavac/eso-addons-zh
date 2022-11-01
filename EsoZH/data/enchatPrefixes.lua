@@ -1,0 +1,19 @@
+EnchantPrefixesDict = {}
+EnchantPrefixesDict = {
+	["低级"] = "Lesser",
+    ["微不足道"] = "Trifling",
+    ["真正超凡"] = "Truly Superb",
+    ["普通"] = "Average",
+    ["宏大"] = "Grand",
+    ["强大"] = "Strong",
+    ["辉煌"] = "Splendid",
+    ["高级"] = "Greater",
+    ["微小"] = "Petty",
+    ["中度"] = "Moderate",
+    ["轻微"] = "Slight",
+    ["纪念性"] = "Monumental",
+    ["次要"] = "Minor",
+    ["次级"] = "Inferior",
+    ["超级"] = "Superb",
+    ["主要"] = "Major",
+}
