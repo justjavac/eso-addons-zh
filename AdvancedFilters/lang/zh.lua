@@ -23,7 +23,8 @@ local strings = {
     UpgradeFragment = util.Localize(SI_SPECIALIZEDITEMTYPE110),
     Fish = util.Localize(SI_ITEMTYPE54),
     RareFish = util.Localize(SI_SPECIALIZEDITEMTYPE80),
-
+    Treasure = util.Localize(SI_SPECIALIZEDITEMTYPE2550),
+    
     --WEAPON
     OneHand = util.Localize(SI_GAMEPADWEAPONCATEGORY1),
     TwoHand = util.Localize(SI_GAMEPADWEAPONCATEGORY2),
